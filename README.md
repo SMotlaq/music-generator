@@ -1,6 +1,5 @@
 # Music Generator 🎼 
 A deep C-RNN-GAN generating musics.
-
 ![3D-front](https://miro.medium.com/max/700/1*oTBR3bPCfgxAIY-Wuh2XvQ.png)
 
 Download the output via this [link](https://raw.githubusercontent.com/SMotlaq/music-generator/master/Result/gan_final.mid)
